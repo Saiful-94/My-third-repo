@@ -1,3 +1,21 @@
 h1{
     color:darkmagenta;
+    border-style: double;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 50px;
+    background-color:darkgray;
+    box-shadow: 20px;
+
+}
+p{
+    background-color: antiquewhite;
+}
+img{
+    border-radius: 10px;
+    width: 100%;
+    
+}
+.class{
+    color: aqua;
 }
